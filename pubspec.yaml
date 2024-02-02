@@ -1,0 +1,48 @@
+name: myportfolio
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  font_awesome_flutter: ^10.7.0
+  url_launcher: ^6.2.4
+  http: ^1.2.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/language/en.png
+    - images/language/es.png
+
+  fonts:
+    - family: RobotoBold
+      fonts:
+        - asset: fonts/RobotoMono-Bold.ttf
+    - family: RobotoLight
+      fonts:
+        - asset: fonts/RobotoMono-Light.ttf
+    - family: RobotoLightItalic
+      fonts:
+        - asset: fonts/RobotoMono-LightItalic.ttf
+    - family: RobotoRegular
+      fonts:
+        - asset: fonts/RobotoMono-Regular.ttf
+    - family: RobotoThin
+      fonts:
+        - asset: fonts/RobotoMono-Thin.ttf
