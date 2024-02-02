@@ -1,16 +1,31 @@
-# myportfolio
+# My Portfolio
 
-A new Flutter project.
+## Description
+My Portfolio is a Flutter application designed to showcase your portfolio in a simple and minimalist way. The app generates a landing page highlighting your skills, projects, and contact details.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- **Minimalist Design:** Clean and user-friendly interface.
+- **Customized Portfolio:** Effectively showcase your skills and projects.
+- **Contact Details:** Includes information for visitors to get in touch.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
+1. Make sure you have Flutter installed on your machine.
+2. Clone this repository: `git clone https://github.com/JhonaCodes/my_portfolio.git`
+3. Navigate to the project directory: `cd my_portfolio`
+4. Run the app: `flutter run`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+Customize the portfolio content in the `lib/data/portfolio_data.dart` file. Here, you can add information about your skills, projects, and contact details.
+
+## Contribution
+Contributions are welcome! If you find any issues or have improvements, please create a Pull Request.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Made with ❤️ and Flutter.
