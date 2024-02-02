@@ -23,7 +23,7 @@ My Portfolio is a Flutter application designed to showcase your portfolio in a s
 Customize the portfolio content in the `lib/data/portfolio_data.dart` file. Here, you can add information about your skills, projects, and contact details.
 
 ## Acknowledgements
-Special thanks to [Bartosz Jarocki](https://github.com/BartoszJarocki) for the outstanding design contributions to this application. The visual appeal and user-friendly layout were made possible through their creativity and expertise.
+Special thanks to [Bartosz Jarocki](https://github.com/BartoszJarocki) for outstanding design contributions. The visual appeal and user-friendly design were made possible by their creativity and experience.
 
 ## Contribution
 Contributions are welcome! If you find any issues or have improvements, please create a Pull Request.
