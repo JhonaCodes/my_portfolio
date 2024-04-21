@@ -16,7 +16,7 @@ class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SingleChildScrollView(
-      padding: const  EdgeInsets.only(top: 50, bottom: 50, left: 20, right: 20),
+      padding: const  EdgeInsets.only(bottom: 50, left: 20, right: 20),
       child: Center(
         child: Column(
           children: [

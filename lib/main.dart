@@ -45,6 +45,7 @@ class _MainLayoutState extends State<MainLayout> {
         backgroundColor: Colors.white,
         appBar: AppBar(
           backgroundColor: Colors.transparent,
+          forceMaterialTransparency: true,
           actions: [
 
             SwitchLanguage(
